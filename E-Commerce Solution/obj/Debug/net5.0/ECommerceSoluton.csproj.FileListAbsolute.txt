@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\bin\Debug\net5.0\ECommerceSoluton.exe
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\bin\Debug\net5.0\ECommerceSoluton.deps.json
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\bin\Debug\net5.0\ECommerceSoluton.runtimeconfig.json
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\bin\Debug\net5.0\ECommerceSoluton.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\bin\Debug\net5.0\ECommerceSoluton.dll
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\bin\Debug\net5.0\ref\ECommerceSoluton.dll
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\bin\Debug\net5.0\ECommerceSoluton.pdb
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ECommerceSoluton.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ECommerceSoluton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ECommerceSoluton.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ECommerceSoluton.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ECommerceSoluton.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ECommerceSoluton.dll
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ref\ECommerceSoluton.dll
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ECommerceSoluton.pdb
+C:\Users\lenovo\source\repos\E-Commerce Solution\E-Commerce Solution\obj\Debug\net5.0\ECommerceSoluton.genruntimeconfig.cache
